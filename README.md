@@ -1,4 +1,4 @@
-# ubuntu-mate.boutique
+# ubuntu-mate.boutique : an amazing website 
 
 #### Archived
 
